@@ -1,6 +1,6 @@
 # 2020-08-04-springboot-jsp-database-study
 
-A simple study of springboot. Created two simple jsp files to list "customers" from database and add data into database. Upon mvn clean install and docker-compose up, the project can be started immediately locally.
+A simple study of springboot. Created two simple jsp files to list "customers" from database and add data into database. Upon mvn clean install and docker-compose up, the project can be started immediately locally (depending on the setup for docker-machine, if you are not using docker-toolbox then the URL of database connection is very likely not 192.168.99.100:3306, change is needed.).
 
 <center>
 <img width="600" src="https://github.com/machingclee/2020-08-04-springboot-jsp-database-study/blob/master/functions.jpg">
